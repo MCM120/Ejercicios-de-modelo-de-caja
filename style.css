@@ -1,0 +1,41 @@
+/* Padding superior derecha inferior izquierda*/ 
+
+div{
+    border-right: 6px solid rgb(14, 121, 85);
+    border-bottom: 18px solid orange;
+    border-left: 40px solid red;
+    border-top: 60px solid green;
+    padding: 20px;
+    margin: 50px;
+    background-image: url("https://media1.giphy.com/media/jpbnoe3UIa8TU8LM13/giphy.gif");
+    width: 800px;
+    height: 400px;
+}
+
+.divv2{
+    border-right: 6px solid yellowgreen;
+    border-bottom: 18px solid gray;
+    border-left: 40px solid blueviolet;
+    border-top: 60px solid purple;
+    padding: 20px;
+    margin: 50px;
+    background-image: url("https://respontodo.com/wp-content/uploads/2020/10/04c.pagespeed.ce_.Osrqwe-m1x.gif");
+    width: 800px;
+    height: 400px;
+}
+
+#ddivv{
+    border-right: 6px solid pink;
+    border-bottom: 18px solid brown;
+    border-left: 40px solid salmon;
+    border-top: 60px solid skyblue;
+    padding: 20px;
+    margin: 50px;
+    background-image: url("https://assets-blog.hostgator.mx/wp-content/uploads/2018/09/que-es-gif-hostgator-blog.gif");
+    width: 800px;
+    height: 400px;
+}
+
+body{
+    background-color: aquamarine;
+}

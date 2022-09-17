@@ -1,0 +1,29 @@
+
+body{
+    background-color: aquamarine;
+}
+
+.yellow{
+    margin-top: 50px;
+    margin-left: 50px;
+    background-color: yellow;
+    width: 1000px;
+    height: 300px;
+    box-shadow: 40px 20px #ACAE17;
+}
+
+.blue{
+    background-color: blue;
+    width: 1000px;
+    height: 150px;
+    margin-left: 50px;
+    box-shadow: 40px 20px #10245A;
+}
+
+.red{
+    background-color: red;
+    width: 1000px;
+    height: 150px;
+    margin-left: 50px;
+    box-shadow: 40px 20px #981717;
+}
